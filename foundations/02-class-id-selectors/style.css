@@ -1,0 +1,20 @@
+.paraclass  
+{
+    background-color: rgba(186, 2, 2, 0.4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.adj_fontsize
+{
+    font-size: 25px;
+}
+#firstdiv
+{
+    color: blue;
+    
+}
+#seconddiv
+{
+    background-color: rgba(58, 255, 23, 0.5);
+    font-size: 20px;
+    font-weight: bold;
+}
