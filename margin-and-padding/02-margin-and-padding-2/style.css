@@ -1,41 +1,69 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+<<<<<<< HEAD
   padding: 5px;
  
+=======
+  padding: 2px;
+  
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 .title {
   background: #e3f4ff;
+<<<<<<< HEAD
   padding: 8px 8px;
   margin: 5px 5px;
   font-size: 16px;
+=======
+  font-size: 16px;
+  margin: 8px 8px;
+  padding: 5px 5px;
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 .content {
   background: #e3f4ff;
+<<<<<<< HEAD
   padding: 16px 8px;
   margin: 5px 5px;
  
+=======
+  margin: 8px 8px;
+  padding: 10px 10px;
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 .button-container {
   background: #e3f4ff;
+<<<<<<< HEAD
   text-align: center;
   margin: 5px 5px;
   padding: 9px;
+=======
+  margin: 8px 8px;
+  text-align: center;
+  padding: 10px 10px;
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 button {
   background: white;
   border: 1px solid #eee;
   display: block;
+<<<<<<< HEAD
   padding: 8px 24px;
   margin: 0 auto;
+=======
+  margin: auto;
+  padding: 5px;
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }

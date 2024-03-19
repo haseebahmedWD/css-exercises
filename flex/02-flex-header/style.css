@@ -4,8 +4,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+<<<<<<< HEAD
   padding: 8px;
   
+=======
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 .logo {
@@ -25,7 +28,11 @@ ul {
   gap: 10px;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 7359356ab7362fec1932f916ff253fc67570ac18
 }
 
 a {
@@ -33,5 +40,5 @@ a {
   background: white;
   padding: 8px;
   /* this removes the line under the links */
-  text-decoration: none;
+  text-decoration: none;  
 }
