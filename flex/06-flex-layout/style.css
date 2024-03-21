@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
   
 }
 
@@ -52,7 +54,7 @@ input {
 .footer
 {
   background-color: rgb(236, 236, 236);
-  margin-top: 108px;
+  
 
 }
  .right-links
@@ -68,5 +70,5 @@ input {
   justify-content: center;
   align-items: center;
   gap: 8px;
-  margin-top: 110px;
+ 
 }
