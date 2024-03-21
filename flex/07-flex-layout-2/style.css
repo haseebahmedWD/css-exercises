@@ -6,8 +6,14 @@ body {
 
 .header {
   height: 72px;
+  display: flex;
+  align-items: center;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  padding: 0 16px;
+  
 }
 
 .footer {
